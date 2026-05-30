@@ -1,0 +1,14 @@
+{
+  "name": "khatar/telegram-bot",
+  "description": "مشروع بوت تيليغرام باستخدام PHP و Composer",
+  "type": "project",
+  "require": {
+    "telegram-bot/api": "^2.5",
+    "monolog/monolog": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Khatar\\Bot\\": "src/"
+    }
+  }
+}

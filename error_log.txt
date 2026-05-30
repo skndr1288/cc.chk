@@ -1,0 +1,95 @@
+[13-May-2026 00:05:18 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 00:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 00:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 00:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 00:05:18 UTC] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:05:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:21:30 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 00:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 00:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 00:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 00:21:30 UTC] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:21:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:22:29 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 00:22:29 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 00:22:29 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 00:22:29 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 00:22:29 UTC] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:44:07 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 00:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 00:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 00:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 00:44:07 UTC] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:44:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:47:39 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 00:47:39 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 00:47:39 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 00:47:39 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 00:47:39 UTC] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 00:47:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 23
+[13-May-2026 01:08:31 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 01:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 01:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 01:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 01:08:31 UTC] PHP Deprecated:  MysqliDb::insertMulti(): Implicitly marking parameter $dataKeys as nullable is deprecated, the explicit nullable type must be used instead in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/MysqliDb.php on line 846
+[13-May-2026 01:08:31 UTC] PHP Warning:  require(/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 01:08:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 01:08:42 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 01:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 01:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 01:08:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 01:08:42 UTC] PHP Deprecated:  MysqliDb::insertMulti(): Implicitly marking parameter $dataKeys as nullable is deprecated, the explicit nullable type must be used instead in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/MysqliDb.php on line 846
+[13-May-2026 01:08:42 UTC] PHP Warning:  require(/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 01:08:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 01:12:55 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 01:12:55 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 01:12:55 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 01:12:55 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 01:12:55 UTC] PHP Deprecated:  MysqliDb::insertMulti(): Implicitly marking parameter $dataKeys as nullable is deprecated, the explicit nullable type must be used instead in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/MysqliDb.php on line 846
+[13-May-2026 01:12:55 UTC] PHP Warning:  require(/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 01:12:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 03:24:33 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 03:24:33 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 03:24:33 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 03:24:33 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 03:24:33 UTC] PHP Deprecated:  MysqliDb::insertMulti(): Implicitly marking parameter $dataKeys as nullable is deprecated, the explicit nullable type must be used instead in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/MysqliDb.php on line 846
+[13-May-2026 03:24:33 UTC] PHP Warning:  require(/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 03:24:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 03:30:09 UTC] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 7
+[13-May-2026 03:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 8
+[13-May-2026 03:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 9
+[13-May-2026 03:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 13
+[13-May-2026 03:30:09 UTC] PHP Deprecated:  MysqliDb::insertMulti(): Implicitly marking parameter $dataKeys as nullable is deprecated, the explicit nullable type must be used instead in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/MysqliDb.php on line 846
+[13-May-2026 03:30:09 UTC] PHP Warning:  require(/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php): Failed to open stream: No such file or directory in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
+[13-May-2026 03:30:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/traductor/vendor/autoload.php' (include_path='.:') in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /storage/emulated/0/Android/data/com.termux/telegram-bot-cc-checker--main/index.php on line 27
